@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|J|.|.|.|
+|J|A|A|P|
 |-|-|-|-|
 |1|2|3|4|
 
@@ -11,4 +11,6 @@
 
 ## Beurten
 req1:J Goed
-req2:JAAP
+req2:JAAP Woord geraden!
+
+### Einde
