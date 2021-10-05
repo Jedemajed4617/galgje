@@ -10,7 +10,9 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-req1:J Goed
-req2:JAAP Woord geraden!
+REQ1:J 
+RES1: Goed
+REQ2: JAAP 
+RES2: Woord geraden!
 
 ### Einde
